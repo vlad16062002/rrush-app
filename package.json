@@ -1,0 +1,11 @@
+{
+    "name": "rush",
+    "version": "0.0.1",
+    "dependencies": {
+        "express": "^4.17.1",
+        "fs": "0.0.1-security",
+        "nodemon": "^2.0.5",
+        "path": "^0.12.7",
+        "socket.io": "^2.3.0"
+    }
+}

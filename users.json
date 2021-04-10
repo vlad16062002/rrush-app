@@ -1,0 +1,80 @@
+[
+	{
+		"id": 4,
+		"name": "Максуин Зайцев",
+		"photo": "https://sun9-12.userapi.com/5DWg6sPFumMSrK5_BYPGpWoG55xxsgX_AaMgBA/GZuhcjRdmAw.jpg",
+		"balance": 9999,
+		"balance_speed": 0,
+		"balance_click": 0.01,
+		"server_max": 10,
+		"server_zanato": 0,
+		"server_lvl": 1,
+		"video_cards_1": 0,
+		"pross_1": 0
+	},
+	{
+		"id": 1,
+		"name": "Цвирко Роман",
+		"photo": "https://sun9-72.userapi.com/bA4LH7kckiMbiwX6Wuwb8m1ThmG_fZg8nC4P5Q/UgOtquw3eSo.jpg",
+		"balance": 114.43,
+		"balance_speed": 0.13,
+		"balance_click": 0.06,
+		"server_max": 20,
+		"server_zanato": 0,
+		"server_lvl": 2,
+		"video_cards_1": 9,
+		"pross_1": 5
+	},
+	{
+		"id": 6,
+		"name": "Максим Дипло...",
+		"photo": "https://sun9-7.userapi.com/saSZtByLJLDT--un7Cpc7MhQNwKQT3S1gnsgug/LXDcQpUAQ2Y.jpg",
+		"balance": 69,
+		"balance_speed": 0,
+		"balance_click": 0.01,
+		"server_max": 10,
+		"server_zanato": 0,
+		"server_lvl": 1,
+		"video_cards_1": 0,
+		"pross_1": 0
+	},
+	{
+		"id": 2,
+		"name": "Влад Круглик",
+		"photo": "https://sun9-65.userapi.com/dYLk_K0rco1tsi0PblOas8t3WggTzLkZYoJaAQ/M5ezcF22XXI.jpg",
+		"balance": 10.9,
+		"balance_speed": 0,
+		"balance_click": 0.01,
+		"server_max": 10,
+		"server_zanato": 0,
+		"server_lvl": 1,
+		"video_cards_1": 0,
+		"pross_1": 0
+	},
+	{
+		"id": 3,
+		"name": "Богдан Митурич",
+		"photo": "https://sun1.beltelecom-by-minsk.userapi.com/c857024/v857024715/17ace3/KP28NIUUfJE.jpg",
+		"balance": 1,
+		"balance_speed": 0,
+		"balance_click": 0.01,
+		"server_max": 10,
+		"server_zanato": 0,
+		"server_lvl": 1,
+		"video_cards_1": 0,
+		"pross_1": 0
+	},
+	{
+		"id": 5,
+		"name": "Влад Панаргин",
+		"photo": "https://sun9-21.userapi.com/Vy5Ht2FJ5-2hBgTdyRcxdkI7585YNUUeInbMtQ/x63ScOHvBxQ.jpg",
+		"balance": 0.01,
+		"balance_speed": 0,
+		"balance_click": 0.01,
+		"server_max": 10,
+		"server_zanato": 0,
+		"server_lvl": 1,
+		"video_cards_1": 0,
+		"pross_1": 0
+	}
+]
